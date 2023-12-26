@@ -50,7 +50,7 @@ dotenv = "0.15"
 flate2 = { version = "1.0", default-features = false, features = ["default"] }
 futures = { version = "0.3", default-features = false, features = ["executor"] }
 log = "0.4"
-minecraft-protocol = { git = "https://github.com/timvisee/rust-minecraft-protocol", rev = "edfdf87" }
+minecraft-protocol = { git = "https://github.com/koskev/rust-minecraft-protocol", rev = "350705b" }
 named-binary-tag = "0.6"
 nix = "0.26"
 notify = "4.0"
